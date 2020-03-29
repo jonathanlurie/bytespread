@@ -1,1 +1,1 @@
-__version__ = "0.1.1"
+from bytespread._version import __version__
